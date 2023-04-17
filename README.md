@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-### Since 1976 America has seen a lot of up and downs of the Unemployment rate. This analysis is giving a very detailed insight into the unemployed rates per state over ### a time periode of four decades on annual basis. 
+### Since 1976 America has seen a lot of up and downs of the Unemployment rate. This analysis is giving a very detailed insight into the unemployed rates per state over a time periode of four decades on annual basis. 
 
 
 ### Motivation: 
@@ -18,4 +18,4 @@
 
 ### Data: 
 
-### This Dataset represents relevant population statistics and employment rates per US state since January1976 until December 2022. All data are official figures from ### the Bureau of Labor Statistics that have been compiled and structured by Justin Oh and published on Kaggle (Unemployment in America, Per US State | Kaggle). 
+### This Dataset represents relevant population statistics and employment rates per US state since January1976 until December 2022. All data are official figures from the Bureau of Labor Statistics that have been compiled and structured by Justin Oh and published on Kaggle (Unemployment in America, Per US State | Kaggle). 
