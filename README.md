@@ -9,7 +9,7 @@
 
 ### Motivation: 
 
-### It is interesting to get to know, that not only economic crises, but also Labor Force or Population of a state has an impact on the percentage of Unemployed.
+### It is interesting to get to know, whether, not only economic crises, but also Labor Force or Population of a state has an impact on the percentage of Unemployed.
 ### Does lower Labor Force  result in lower Unemployment or vica versa?
 
 ### Objectives:
