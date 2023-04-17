@@ -4,8 +4,7 @@
 
 ### Introduction:
 
-### Since 1976 America has seen a lot of up and downs of the Unemployment rate. This analysis is giving a very detailed insight into the unemployed rates
-### per state over a time periode of four decades on annual basis. 
+### Since 1976 America has seen a lot of up and downs of the Unemployment rate. This analysis is giving a very detailed insight into the unemployed rates per state over ### a time periode of four decades on annual basis. 
 
 
 ### Motivation: 
